@@ -20,10 +20,10 @@ Why is a Contact Form Important?
 Technologies Used
 -----------------
 
-HTML
-CSS
-JavaScript
-VS Code
+- HTML
+- CSS
+- JavaScript
+- VS Code
 
 
 Features
